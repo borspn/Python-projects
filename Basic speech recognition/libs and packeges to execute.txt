@@ -1,0 +1,6 @@
+Libraries:
+	-PyAudio
+	-SpeechRecognition
+Packeges:
+	-flac (brew install flac)
+	-portaudio (brew install portaudio)
